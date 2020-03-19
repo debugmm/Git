@@ -30,6 +30,7 @@ Thumbs.db
 # xcode about user personer files #
 *.pbxuser
 xcuserdata/
+xcuserdata/*
 *.xccheckout
 *.xcuserstate
 xcdebugger/
